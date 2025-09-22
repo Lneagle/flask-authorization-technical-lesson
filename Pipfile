@@ -17,4 +17,3 @@ importlib-resources = "5.10.0"
 [dev-packages]
 
 [requires]
-python_full_version = "3.8.13"
